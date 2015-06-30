@@ -1,0 +1,55 @@
+.cke_editable {
+	height: 100%;
+	background-color: white;
+	border: 1px solid #ccc;
+	padding: 10px;
+}
+p {
+	margin: auto !important;
+	padding-top: inherit !important;
+	padding-bottom: inherit !important;
+}
+strong, b {
+	font-weight: bold !important;
+}
+h1 {
+	font-size: 2em !important;
+	font-weight: bold !important;
+	margin-bottom: 0.83em !important;
+}
+h2 {
+	font-size: 1.5em !important;
+	font-weight: bold !important;
+	margin-bottom: 0.83em !important;
+}
+h3 {
+	font-size: 1.17em !important;
+	font-weight: bold !important;
+	margin-bottom: 1.0em !important;
+}
+h4 {
+	margin-bottom: 1.4em !important;
+}
+h5 {
+	font-size: 0.83em !important;
+	font-weight: bold !important;
+	margin-bottom: 1.7em !important;
+}
+h6 {
+	font-size: 0.67em !important;
+	font-weight: bold !important;
+	margin-bottom: 2.3em !important;
+}
+pre, code {
+	font-family: monospace !important;
+	margin: 1em 0px !important;
+}
+i, cite, em, var, address, dfn {
+	font-style: italic !important;
+}
+table, tbody, tr, th, td {
+	border: inherit !important;
+}
+td {
+	padding: 5px !important;
+}
